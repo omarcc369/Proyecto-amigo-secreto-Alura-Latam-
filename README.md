@@ -15,4 +15,5 @@ Proyecto del amigo secreto de Gerardo Omar Guerrero Garza
 ## 🚀 Instalación y uso
 1. Clona el repositorio:
    ```bash
-   git clone 
+   git clone https://github.com/omarcc369/Proyecto-amigo-secreto-Alura-Latam-.git
+   
